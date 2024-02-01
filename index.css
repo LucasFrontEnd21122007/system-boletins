@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  #boletins {
+    margin-bottom: 20px;
+  }
+
+  .boletim {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  .boletim h2 {
+    margin-top: 0;
+  }
+
+  .boletim .notas {
+    list-style: none;
+    padding: 0;
+  }
+
+  .boletim .notas li {
+    margin-bottom: 5px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
